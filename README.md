@@ -1,1 +1,4 @@
-<a href="images/Data_pegawai>
+## Tampilan Data pegawai
+
+![Tampilan Awal](Data_pegawai.png)
+
